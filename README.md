@@ -14,7 +14,10 @@
 8-Finally save your skin and choose it to create your own emulator
 ### Tip 
 To hide side bar you can you use `win-spy` 
+### Youtube-Video
+[Link](https://youtu.be/6hoHtgQRId4)\
 ![image](https://user-images.githubusercontent.com/70527079/164999072-71cf61a4-d68f-4f67-85e0-7ba3cc34af3d.png)
+
 
 ![image](https://user-images.githubusercontent.com/70527079/164999086-5d320a67-04c8-4214-a325-682828dc95eb.png)
 ![image](https://user-images.githubusercontent.com/70527079/164999100-c042d518-fa57-46d7-a4ab-b605dfdf23a1.png)
