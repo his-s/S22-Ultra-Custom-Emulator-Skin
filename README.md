@@ -15,7 +15,7 @@
 ### Tip 
 To hide side bar you can you use `win-spy` 
 ### Youtube-Video
-[Link](https://youtu.be/6hoHtgQRId4)\
+[Add S22 Ultra Design To Your Emulator](https://youtu.be/6hoHtgQRId4)\
 ![image](https://user-images.githubusercontent.com/70527079/164999072-71cf61a4-d68f-4f67-85e0-7ba3cc34af3d.png)
 
 
