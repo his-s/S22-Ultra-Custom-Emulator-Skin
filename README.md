@@ -12,7 +12,8 @@
 6-Set Screen  Size `6.8 inch ` and Resolution `1440 X 3088`\
 7-Scrolldown to your file `Path` and choose your skin from folder `S22_Emulator_Custom_Skin`\
 8-Finally save your skin and choose it to create your own emulator
-
+### Tip 
+To hide side bar you can you use `win-spy` 
 ![image](https://user-images.githubusercontent.com/70527079/164999072-71cf61a4-d68f-4f67-85e0-7ba3cc34af3d.png)
 
 ![image](https://user-images.githubusercontent.com/70527079/164999086-5d320a67-04c8-4214-a325-682828dc95eb.png)
